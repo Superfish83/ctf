@@ -1,4 +1,7 @@
 *.zip
 *.tar
 *.tar.gz
+.gdb-history
+
 deploy/
+libc/
