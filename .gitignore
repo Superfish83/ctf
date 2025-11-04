@@ -1,7 +1,9 @@
 *.zip
 *.tar
 *.tar.gz
-.gdb-history
+.gdb_history
 
 deploy/
-libc/
+_libc/
+libc.so.6
+chall

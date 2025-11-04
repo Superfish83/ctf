@@ -3,7 +3,7 @@ from pwn import *
 #context.log_level = 'debug'
 
 # libc extracted from docker server
-libc_path = '../../libc/libc1997.so.6'
+libc_path = '../../_libc/libc1997.so.6'
 libc = ELF(libc_path)
 libc_rop = ROP(libc)
 
