@@ -7,3 +7,9 @@ deploy/
 _libc/
 libc.so.6
 chall
+
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
