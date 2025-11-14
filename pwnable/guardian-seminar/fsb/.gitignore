@@ -1,0 +1,6 @@
+fsb
+fsb.*
+flag
+
+ld-linux-x86-64.so.2
+libc.so.6
